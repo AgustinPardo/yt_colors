@@ -1,3 +1,5 @@
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+
 # yt_colors
 
 http://35.224.171.255/yt_colors/index.php
