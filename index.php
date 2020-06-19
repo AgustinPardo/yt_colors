@@ -18,6 +18,9 @@ if($_POST){
     $sentencia_agregar = $pdo->prepare($sql_agregar);
     $sentencia_agregar->execute(array($color,$descripcion));
 
+    $sentencia_agregar = null;
+    $pdo = null;
+
     header('location:index.php');
 
 };
@@ -107,3 +110,8 @@ dark">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
   </body>
 </html>
+
+<?php
+$pdp = null;
+$gsent = null;
+?>
