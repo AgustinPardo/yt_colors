@@ -22,4 +22,4 @@ dark
 
 http://35.224.171.255/form-sesion/
 
-### Formulario de inicio de sesion basado en basado en PHP + MySQL + Google Cloud
+### Formulario de inicio de sesion basado en PHP + MySQL + Google Cloud
