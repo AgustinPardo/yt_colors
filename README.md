@@ -1,12 +1,10 @@
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
-
 # yt_colors
 
 ## Colors
 
 http://35.224.171.255/yt_colors/
 
-### CRUD basado en PHP + MySQL + Bootstrap4 + Google Cloud
+### CRUD ("Crear, Leer, Actualizar y Borrar") basado en Vanilla PHP + MySQL + Bootstrap4 + Google Cloud
 
 Select colors from Bootrap4 alerts:
 primary 
